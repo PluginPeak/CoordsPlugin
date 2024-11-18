@@ -1,0 +1,9 @@
+event onInterval(5){  // First broadcast interval (5 seconds)
+    broadcast("Thank you for using <color=#0073e6><B>PluginPeak's</B></color> <color=#800000>Auto Broadcast System."); // Declare the broadcast messages
+}
+
+event onInterval(10){ // Second broadcast interval (10 seconds)
+    broadcast("We hope you like <color=#0073e6><B>PluginPeak's</B></color> <color=#800000>Auto Broadcast System."); // Declare the broadcast messages
+
+}
+
